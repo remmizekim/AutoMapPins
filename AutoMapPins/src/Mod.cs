@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace AutoMapPins
 {
-    [BepInPlugin("net.bdew.valheim.automappins", "Auto Map Pins", "1.0.0")]
+    [BepInPlugin("net.bdew.valheim.automappins", "Auto Map Pins", "1.1.0")]
     class Mod : BaseUnityPlugin
     {
         public static ManualLogSource Log;
